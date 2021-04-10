@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+
+    {% for domain in page.subdomains %}
+    <h4>{{ domain[1].title }}</h4>
+    <p>{{ domain[1].desc-title }}</p>
+
+    <ul>
+    {% for item in domain[1].desc-items %}
+      <li>{{ item }}</li>
+    {% endfor %}
+    </ul>
+  {% endfor %}
+  </div>
+
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

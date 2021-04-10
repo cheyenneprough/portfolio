@@ -1,0 +1,35 @@
+---
+layout: post
+title: Domain 4
+subdomains:
+    a:
+        title: '4a. Reflects on teaching in an ongoing manner'
+        desc-title: 'Teacher candidate demonstrates professionalism by:'
+        desc-items: ['accurately and honestly reflecting on lessons', 'citing adjustments in practice for improving future teaching']
+        grade: 'P'
+    b:
+        title: '4b. Maintains accurate, anecdotal records and quantitative data on student progress'
+        desc-title: 'Teacher candidate demonstrates professionalism by:'
+        desc-items: ['formally and informally tracking student progress and completion of assignments', 'maintaining accurate instructional and non-instructional records to share with stakeholders']
+        grade: 'P'
+    c:
+        title: '4c. Communicates appropriately with students’ families'
+        desc-title: 'Teacher candidate demonstrates professionalism by:'
+        desc-items: ['communicating frequently with families', 'demonstrating cultural competency when communicating with families', 'provides appropriate information about the instructional program', 'promoting opportunities for families to engage in the learning process']
+        grade: 'P'
+    d:
+        title: '4d. Participates in professional education community, including collaborating with peers, and service within the school community'
+        desc-title: 'Teacher candidate demonstrates professionalism by:'
+        desc-items: ['establishing and maintaining relationships with school community members (administrators, paraprofessionals, staff, and teachers) and college faculty', 'participating in professional organizations and supporting school and community initiatives', 'participating in learning opportunities and communities that promote professional inquiry and practice']
+        grade: 'P'
+    e:
+        title: '4e.  Seeks personal professional development, including new knowledge and experiences in the field of education'
+        desc-title: 'Teacher candidate demonstrates professionalism by:'
+        desc-items: ['seeking opportunities such as workshops, seminars, courses, professional learning communities, to enhance content knowledge and pedagogical skill', 'pursuing opportunities for feedback from colleagues', 'participating in professional organizations to support their practice and demonstrate support and leadership to colleagues']
+        grade: 'P'
+    f:
+        title: '4f. Demonstrates ethics and integrity in one’s teaching practice and complies with all school and district policies and procedures'
+        desc-title: 'Teacher candidate demonstrates professionalism by:'
+        desc-items: ['acting with integrity and honesty', 'advocating for students’ bests interests and needs in difficult situations', 'complying with college, school, and district regulations/policies such as timeliness, dress code, attendance, language, technology, and use of appropriate communication ']
+        grade: 'P'
+---
