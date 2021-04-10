@@ -1,0 +1,30 @@
+---
+layout: post
+title: Domain 3
+subdomains:
+    a:
+        title: '3a. Communicates; clear expectations for learning, instructional directions, and demonstration of content in both verbal and written form'
+        desc-title: 'Teacher candidate delivers instruction that:'
+        desc-items: ['clearly communicates learning expectations to students', 'communicates/models clear directions and procedures (oral, written, and/or demonstration)', 'clearly explains concepts using vivid language and imaginative analogies and metaphors', 'connects explanations to students lives outside of school', 'anticipates student misconceptions', 'gives clear explanations that include appropriate scaffolding of concepts with gradual release of responsibility (guided and independent practice)']
+        grade: 'E+'
+    b:
+        title: '3b. Uses an appropriate line of questioning and discussion techniques to increase student participation'
+        desc-title: 'Teacher candidate delivers instruction that:'
+        desc-items: ['designs a variety of high-quality questions that promote reflection and conceptual understanding', 'allows for appropriate wait time', 'asks students to elaborate and provide evidence for their thinking', 'facilitates discussion that allows for multiple correct answers and approaches', 'encourages ALL students to reflect and respond to each other appropriately']
+        grade: 'P'
+    c:
+        title: '3c. Creates engaging activities and experiences for students through collaborative grouping, supplemental resources and materials and appropriate pacing of lessons'
+        desc-title: 'Teacher candidate delivers instruction that:'
+        desc-items: ['actively and cognitively engages ALL students in meaningful learning', 'emphasizes depth over breadth', 'allows for student voice and choice', 'intentionally groups students to include student choice, ability, interest etc.', 'maintains appropriate pacing and structure for lesson (not dragging or rushing)']
+        grade: 'P'
+    d:
+        title: '3d. Continuously checks for understanding and provides valuable feedback to the learners'
+        desc-title: 'Teacher candidate delivers instruction that:'
+        desc-items: ['sets clear criteria for assessing student', ' provides timely, rich, and relevant feedback to students', 'includes student involvement in reflection and assessment of work against established criteria', 'circulates to monitor student learning and offer feedback']
+        grade: 'P'
+    e:
+        title: '3e. Adjusts lessons to meet the needs of the learners in the classroom'
+        desc-title: 'Teacher candidate delivers instruction that:'
+        desc-items: [' adjusts lessons to meet student needs and interests', 'adjusts instruction to interruptions and teachable moments', 'recognizes and appropriately responds to students’ challenges in learning content', 'demonstrates persistence by providing alternative approaches to allow ALL students to master content']
+        grade: 'P'
+---

@@ -1,0 +1,30 @@
+---
+layout: post
+title: Domain 2
+subdomains:
+    a:
+        title: '2a. Creates a Positive, Productive and Respectful Learning Environment'
+        desc-title: 'Teacher candidate develops and maintains a learning environment that:'
+        desc-items: ['sets a respectful tone with both words and actions (use of physical proximity, voice intonation, nonverbal cues, and warmth and caring)', 'demonstrates respect for students’ backgrounds, abilities, interests, and life outside the classroom', 'promotes student interactions with other students in both words and actions (respectful talk and turn taking)']
+        grade: 'P'
+    b:
+        title: '2b. Establishes a Culture of Learning, which fosters active participation and student collaborative learning'
+        desc-title: 'Teacher candidate develops and maintains a learning environment that:'
+        desc-items: ['builds a strong learning culture that shows belief in the value of work, persistence, effort and quality', 'sets high expectations for student learning and pride in work', 'promotes confidence in students’ ability to achieve', 'expects ALL students to actively engage']
+        grade: 'P'
+    c:
+        title: '2c. Maximizes Instructional time with clear routines, smooth transitions and organization of materials and resources'
+        desc-title: 'Teacher candidate develops and maintains a learning environment that:'
+        desc-items: ['has clear routines and procedures in place', 'transitions students without loss of instructional time', 'manages materials and supplies effectively', 'attends to non-instructional duties in a way that does not detract from instructional time', 'promotes student responsibility and accountability for routines and procedures']
+        grade: 'P'
+    d:
+        title: '2d. Manages student behavior with clear expectations for behavior and appropriate responses to undesired behavior'
+        desc-title: 'Teacher candidate develops and maintains a learning environment that:'
+        desc-items: ['sets high expectations for behavior and conduct', 'engages students in setting expectations for conduct', 'appropriately recognizes, addresses, and responds to student misbehavior in a way that respects students’ dignity']
+        grade: 'P'
+    e:
+        title: '2e. Provides a safe, organized and accessible learning space for all types of learners'
+        desc-title: 'Teacher candidate develops and maintains a learning environment that:'
+        desc-items: ['sets the expectation that physical and psychological safety is paramount to learning', 'is safe and accessible for ALL students', 'arranges furniture, physical resources, and technology in a way that safely engages students in learning activities', 'creates a pleasant and inviting atmosphere for learning']
+        grade: 'P'
+---

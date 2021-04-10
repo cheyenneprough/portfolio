@@ -1,0 +1,35 @@
+---
+layout: post
+title: Domain 1
+subdomains:
+    a:
+        title: '1a. Demonstrates Content Knowledge and Sound Pedagogical Practices'
+        desc-title: 'Planning shows evidence that the teacher candidate incorporates instruction that:'
+        desc-items: ['Knows content and structure of discipline', 'Considers prerequisite skills and concepts', 'Applies content-related pedagogy']
+        grade: 'P'
+    b:
+        title: '1b. Demonstrates Knowledge of Students including; development, learning, special needs, interests and cultural background'
+        desc-title: 'Planning shows evidence that the teacher candidate incorporates instruction that:'
+        desc-items: ['recognizes that students learn differently at different stages', 'addresses the learning process by using appropriate development continuums for instruction (developmentally appropriate)', 'promotes active intellectual engagement', 'addresses individual students’ skills, knowledge, and language proficiency', 'recognizes children’s lives beyond school influence their learning', 'plans for students’ varied interests and cultural heritages', 'adapts and differentiates for students’ special needs']
+        grade: 'P'
+    c:
+        title: '1c. Identifies Appropriate Instructional Outcomes'
+        desc-title: 'Planning shows evidence that the teacher candidate incorporates instruction that:'
+        desc-items: ['shows the value, sequence, and alignment of important ideas. (objectives, instruction, and assessment)', 'clearly states what students will learn balances knowledge, conceptual understanding, and thinking skills', 'meets the needs of ALL diverse students']
+        grade: 'P'
+    d:
+        title: '1d. Identifies Developmentally Appropriate Resources'
+        desc-title: 'Planning shows evidence that the teacher candidate incorporates instruction that:'
+        desc-items: ['identifies resources for the classroom and aligns with learning outcomes', 'looks to extend what they know about content, knowledge and instructional methods', 'uses challenging resources that are developmentally appropriate']
+        grade: 'P'
+    e:
+        title: '1e. Designs Coherent Lessons which include Engaging Strategies (activities, materials, resources and collaborative grouping)'
+        desc-title: 'Planning shows evidence that the teacher candidate incorporates instruction that:'
+        desc-items: ['engages and advances students through content', 'selects materials and resources that are appropriate to the learning needs of students', 'groups students to support learning', 'demonstrates a clear and sequenced structure of units and lessons to advance student learning']
+        grade: 'P'
+    f:
+        title: '1f. Designs Learner-Centered Assessments, which drive Planning and Practice'
+        desc-title: 'Planning shows evidence that the teacher candidate incorporates instruction that:'
+        desc-items: ['align learning assessments and outcomes', 'clearly defines criteria, standards and student expectations', 'incorporates formative assessment to guide instruction', 'uses assessment results to plan future instruction and/or re-teaching']
+        grade: 'P'
+---
